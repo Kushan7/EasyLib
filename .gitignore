@@ -1,3 +1,6 @@
 node_modules
 .pycaches
 *.pyc
+__pycache__
+*.pyo
+*.pyd
